@@ -1,0 +1,24 @@
+# Nmap 7.70 scan initiated Thu May 10 03:50:30 2018 as: nmap -n -sn -oA hostdiscovery 10.10.10.0/24
+Host: 10.10.10.2 ()	Status: Up
+Host: 10.10.10.59 ()	Status: Up
+Host: 10.10.10.62 ()	Status: Up
+Host: 10.10.10.63 ()	Status: Up
+Host: 10.10.10.64 ()	Status: Up
+Host: 10.10.10.66 ()	Status: Up
+Host: 10.10.10.68 ()	Status: Up
+Host: 10.10.10.69 ()	Status: Up
+Host: 10.10.10.70 ()	Status: Up
+Host: 10.10.10.71 ()	Status: Up
+Host: 10.10.10.72 ()	Status: Up
+Host: 10.10.10.73 ()	Status: Up
+Host: 10.10.10.74 ()	Status: Up
+Host: 10.10.10.75 ()	Status: Up
+Host: 10.10.10.76 ()	Status: Up
+Host: 10.10.10.78 ()	Status: Up
+Host: 10.10.10.80 ()	Status: Up
+Host: 10.10.10.81 ()	Status: Up
+Host: 10.10.10.82 ()	Status: Up
+Host: 10.10.10.83 ()	Status: Up
+Host: 10.10.10.84 ()	Status: Up
+Host: 10.10.10.85 ()	Status: Up
+# Nmap done at Thu May 10 03:51:13 2018 -- 256 IP addresses (22 hosts up) scanned in 42.49 seconds

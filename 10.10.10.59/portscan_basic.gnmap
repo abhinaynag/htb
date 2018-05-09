@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu May 10 04:46:15 2018 as: nmap -n -Pn -oA ./10.10.10.59/portscan_basic 10.10.10.59
+Host: 10.10.10.59 ()	Status: Up
+Host: 10.10.10.59 ()	Ports: 21/open/tcp//ftp///, 80/open/tcp//http///, 81/open/tcp//hosts2-ns///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 808/open/tcp//ccproxy-http///, 1433/open/tcp//ms-sql-s///	Ignored State: closed (992)
+# Nmap done at Thu May 10 04:47:08 2018 -- 1 IP address (1 host up) scanned in 53.54 seconds

@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu May 10 04:51:56 2018 as: nmap -n -Pn -oA ./10.10.10.71/portscan_basic 10.10.10.71
+Host: 10.10.10.71 ()	Status: Up
+Host: 10.10.10.71 ()	Ports: 25/open/tcp//smtp///, 53/open/tcp//domain///, 80/open/tcp//http///, 88/open/tcp//kerberos-sec///, 135/open/tcp//msrpc///, 389/open/tcp//ldap///, 443/open/tcp//https///, 445/open/tcp//microsoft-ds///, 464/open/tcp//kpasswd5///, 587/open/tcp//submission///, 593/open/tcp//http-rpc-epmap///, 636/open/tcp//ldapssl///, 808/open/tcp//ccproxy-http///, 3268/open/tcp//globalcatLDAP///, 3269/open/tcp//globalcatLDAPssl///, 3306/open/tcp//mysql///, 6001/open/tcp//X11:1///, 6002/open/tcp//X11:2///, 6003/open/tcp//X11:3///, 6004/open/tcp//X11:4///, 6005/open/tcp//X11:5///, 6006/open/tcp//X11:6///, 6007/open/tcp//X11:7///, 8080/open/tcp//http-proxy///	Ignored State: closed (976)
+# Nmap done at Thu May 10 04:52:59 2018 -- 1 IP address (1 host up) scanned in 63.33 seconds

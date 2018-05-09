@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu May 10 04:48:17 2018 as: nmap -n -Pn -oA ./10.10.10.64/portscan_basic 10.10.10.64
+Host: 10.10.10.64 ()	Status: Up
+Host: 10.10.10.64 ()	Ports: 22/open/tcp//ssh///, 80/open/tcp//http///, 8080/open/tcp//http-proxy///	Ignored State: filtered (997)
+# Nmap done at Thu May 10 04:49:09 2018 -- 1 IP address (1 host up) scanned in 52.14 seconds

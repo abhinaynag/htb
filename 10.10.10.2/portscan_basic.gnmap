@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu May 10 04:42:53 2018 as: nmap -n -Pn -oA ./10.10.10.2/portscan_basic 10.10.10.2
+Host: 10.10.10.2 ()	Status: Up
+Host: 10.10.10.2 ()	Status: Up
+# Nmap done at Thu May 10 04:46:14 2018 -- 1 IP address (1 host up) scanned in 201.38 seconds

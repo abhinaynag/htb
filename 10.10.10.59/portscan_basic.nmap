@@ -1,0 +1,15 @@
+# Nmap 7.70 scan initiated Thu May 10 04:46:15 2018 as: nmap -n -Pn -oA ./10.10.10.59/portscan_basic 10.10.10.59
+Nmap scan report for 10.10.10.59
+Host is up (0.36s latency).
+Not shown: 992 closed ports
+PORT     STATE SERVICE
+21/tcp   open  ftp
+80/tcp   open  http
+81/tcp   open  hosts2-ns
+135/tcp  open  msrpc
+139/tcp  open  netbios-ssn
+445/tcp  open  microsoft-ds
+808/tcp  open  ccproxy-http
+1433/tcp open  ms-sql-s
+
+# Nmap done at Thu May 10 04:47:08 2018 -- 1 IP address (1 host up) scanned in 53.54 seconds
