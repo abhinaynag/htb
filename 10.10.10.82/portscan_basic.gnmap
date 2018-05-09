@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu May 10 06:09:55 2018 as: nmap -n -Pn -oA ./10.10.10.82/portscan_basic 10.10.10.82
+Host: 10.10.10.82 ()	Status: Up
+Host: 10.10.10.82 ()	Ports: 80/open/tcp//http///, 135/open/tcp//msrpc///, 139/open/tcp//netbios-ssn///, 445/open/tcp//microsoft-ds///, 1521/open/tcp//oracle///, 49152/open/tcp//unknown///, 49153/open/tcp//unknown///, 49154/open/tcp//unknown///, 49155/open/tcp//unknown///, 49158/open/tcp//unknown///, 49160/open/tcp//unknown///, 49161/open/tcp//unknown///	Ignored State: closed (988)
+# Nmap done at Thu May 10 06:10:14 2018 -- 1 IP address (1 host up) scanned in 19.08 seconds

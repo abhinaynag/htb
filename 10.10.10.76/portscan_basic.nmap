@@ -1,0 +1,24 @@
+# Nmap 7.70 scan initiated Thu May 10 05:46:11 2018 as: nmap -n -Pn -oA ./10.10.10.76/portscan_basic 10.10.10.76
+Nmap scan report for 10.10.10.76
+Host is up (0.29s latency).
+Not shown: 983 closed ports
+PORT      STATE    SERVICE
+70/tcp    filtered gopher
+79/tcp    open     finger
+111/tcp   open     rpcbind
+726/tcp   filtered unknown
+1198/tcp  filtered cajo-discovery
+2048/tcp  filtered dls-monitor
+5214/tcp  filtered unknown
+6007/tcp  filtered X11:7
+6510/tcp  filtered mcer-port
+8010/tcp  filtered xmpp
+8193/tcp  filtered sophos
+9001/tcp  filtered tor-orport
+9111/tcp  filtered DragonIDSConsole
+10001/tcp filtered scp-config
+10003/tcp filtered documentum_s
+16080/tcp filtered osxwebadmin
+49400/tcp filtered compaqdiag
+
+# Nmap done at Thu May 10 06:08:20 2018 -- 1 IP address (1 host up) scanned in 1329.27 seconds

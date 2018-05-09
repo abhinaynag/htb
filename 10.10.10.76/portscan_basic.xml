@@ -15,3 +15,33 @@
 <taskprogress task="SYN Stealth Scan" time="1525888221" percent="12.16" remaining="1806" etc="1525890026"/>
 <taskprogress task="SYN Stealth Scan" time="1525888222" percent="12.17" remaining="1811" etc="1525890033"/>
 <taskprogress task="SYN Stealth Scan" time="1525888223" percent="12.18" remaining="1817" etc="1525890040"/>
+<host starttime="1525887971" endtime="1525889300"><status state="up" reason="user-set" reason_ttl="0"/>
+<address addr="10.10.10.76" addrtype="ipv4"/>
+<hostnames>
+</hostnames>
+<ports><extraports state="closed" count="983">
+<extrareasons reason="resets" count="983"/>
+</extraports>
+<port protocol="tcp" portid="70"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="gopher" method="table" conf="3"/></port>
+<port protocol="tcp" portid="79"><state state="open" reason="syn-ack" reason_ttl="59"/><service name="finger" method="table" conf="3"/></port>
+<port protocol="tcp" portid="111"><state state="open" reason="syn-ack" reason_ttl="63"/><service name="rpcbind" method="table" conf="3"/></port>
+<port protocol="tcp" portid="726"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="unknown" method="table" conf="3"/></port>
+<port protocol="tcp" portid="1198"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="cajo-discovery" method="table" conf="3"/></port>
+<port protocol="tcp" portid="2048"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="dls-monitor" method="table" conf="3"/></port>
+<port protocol="tcp" portid="5214"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="unknown" method="table" conf="3"/></port>
+<port protocol="tcp" portid="6007"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="X11:7" method="table" conf="3"/></port>
+<port protocol="tcp" portid="6510"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="mcer-port" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8010"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="xmpp" method="table" conf="3"/></port>
+<port protocol="tcp" portid="8193"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="sophos" method="table" conf="3"/></port>
+<port protocol="tcp" portid="9001"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="tor-orport" method="table" conf="3"/></port>
+<port protocol="tcp" portid="9111"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="DragonIDSConsole" method="table" conf="3"/></port>
+<port protocol="tcp" portid="10001"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="scp-config" method="table" conf="3"/></port>
+<port protocol="tcp" portid="10003"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="documentum_s" method="table" conf="3"/></port>
+<port protocol="tcp" portid="16080"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="osxwebadmin" method="table" conf="3"/></port>
+<port protocol="tcp" portid="49400"><state state="filtered" reason="no-response" reason_ttl="0"/><service name="compaqdiag" method="table" conf="3"/></port>
+</ports>
+<times srtt="286169" rttvar="960" to="290009"/>
+</host>
+<runstats><finished time="1525889300" timestr="Thu May 10 06:08:20 2018" elapsed="1329.27" summary="Nmap done at Thu May 10 06:08:20 2018; 1 IP address (1 host up) scanned in 1329.27 seconds" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

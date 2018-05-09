@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu May 10 06:10:14 2018 as: nmap -n -Pn -oA ./10.10.10.83/portscan_basic 10.10.10.83
+Host: 10.10.10.83 ()	Status: Up
+Host: 10.10.10.83 ()	Ports: 22/filtered/tcp//ssh///, 53/open/tcp//domain///, 80/open/tcp//http///, 2222/open/tcp//EtherNetIP-1///	Ignored State: closed (996)
+# Nmap done at Thu May 10 06:10:26 2018 -- 1 IP address (1 host up) scanned in 12.10 seconds

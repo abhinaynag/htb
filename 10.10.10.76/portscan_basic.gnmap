@@ -1,0 +1,4 @@
+# Nmap 7.70 scan initiated Thu May 10 05:46:11 2018 as: nmap -n -Pn -oA ./10.10.10.76/portscan_basic 10.10.10.76
+Host: 10.10.10.76 ()	Status: Up
+Host: 10.10.10.76 ()	Ports: 70/filtered/tcp//gopher///, 79/open/tcp//finger///, 111/open/tcp//rpcbind///, 726/filtered/tcp//unknown///, 1198/filtered/tcp//cajo-discovery///, 2048/filtered/tcp//dls-monitor///, 5214/filtered/tcp//unknown///, 6007/filtered/tcp//X11:7///, 6510/filtered/tcp//mcer-port///, 8010/filtered/tcp//xmpp///, 8193/filtered/tcp//sophos///, 9001/filtered/tcp//tor-orport///, 9111/filtered/tcp//DragonIDSConsole///, 10001/filtered/tcp//scp-config///, 10003/filtered/tcp//documentum_s///, 16080/filtered/tcp//osxwebadmin///, 49400/filtered/tcp//compaqdiag///	Ignored State: closed (983)
+# Nmap done at Thu May 10 06:08:20 2018 -- 1 IP address (1 host up) scanned in 1329.27 seconds
